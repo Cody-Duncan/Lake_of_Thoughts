@@ -1,6 +1,7 @@
 ---
-{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"dg-publish":true,"permalink":"/index/","title":"Lake of Thoughts","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry"]}
 ---
+
 
 > [!quote] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
@@ -37,7 +38,7 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 ## On Top of My mind…
 | Cover                                                                  | Title                                                                                                                                        | Updated                                                              | Created                                                             | Tags                                              | Inset                                                                                                                                         |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <!--img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>-->     | [[LINK_TO_SOME_PAGE|SOME_PAGE]]                                                                                                              | <i icon-name=calendar-clock></i><small>Aug 14, 2023 12:29 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2023 11:39 PM</small> | #nothing_yet                                      | <img class=inset-cover src=''/>                                                                                                               |
+| <!--img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>-->     | [[LINK_TO_SOME_PAGE\|SOME_PAGE]]                                                                                                              | <i icon-name=calendar-clock></i><small>Aug 14, 2023 12:29 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2023 11:39 PM</small> | #nothing_yet                                      | <img class=inset-cover src=''/>                                                                                                               |
 
 { .block-language-dataview}
 ## Discussion
