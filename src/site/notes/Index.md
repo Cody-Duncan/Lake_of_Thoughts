@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Lake of Thoughts","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"2023-08-23T21:30:15+06:00","updated":"2023-08-23T16:59:25+06:00","permalink":"/index/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
