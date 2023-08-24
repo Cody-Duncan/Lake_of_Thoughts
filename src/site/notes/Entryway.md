@@ -1,19 +1,26 @@
 ---
-{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"","updated":"","permalink":"/entryway/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"","updated":"","permalink":"/entryway/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
 > [!quote] Socrates (from Plato's Apology)
-> The unexamined life is not worth living.
+> The only true wisdom is in knowing you know nothing.
 
-This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/) contains some contemplations and musings from my retreats there.
+This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/) contains some thoughts and notes from my retreats here.
 
-Unsurprisingly, thoughts here are, like every thought, ever-changing.
+## Walking Paths
 
-# Walking Paths
+- ### [[Recipes/Recipes\|Recipes]]
+- ### [[Library/Library\|Library]]
 
-[[Library/Library\|Library]]
-[[Recipes/Recipes\|Recipes]]
+## On Top of My mind…
+| Directory | Files                                                                                                                                                | Last modified                |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Library   | <ul><li>[[Library/Multipliers - How the Best Leaders Make Everyone Smarter.md\\|Multipliers - How the Best Leaders Make Everyone Smarter]]</li></ul> | <ul><li>2023-08-23</li></ul> |
+| Recipes   | <ul><li>[[Recipes/Chicken Al Pastor.md\\|Chicken Al Pastor]]</li></ul>                                                                               | <ul><li>2023-08-23</li></ul> |
+
+{ .block-language-dataview}
+
 ## Document Maturity Levels
 Maturity level for each note is being represented by plant icons of various growth.
 
@@ -26,12 +33,6 @@ Maturity level for each note is being represented by plant icons of various grow
 
 > [!Warning] 
 > Maturity Levels are subjective.
-
-
-## On Top of My mind…
-| Cover                                                                   | Title                 | Updated                                                              | Created                                                             | Tags    | Inset                           |
-| ----------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------- | ------------------------------- |
-| <img src='https://lakeofthoughts.codyduncan.net/img/2-cover-card.jpg'/> | [[Recipes/Chicken Al Pastor\|Chicken Al Pastor]] | <i icon-name=calendar-clock></i><small>Aug 14, 2023 12:29 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2023 11:39 PM</small> | #recipe | <img class=inset-cover src=''/> |
 
 ## Discussion
 Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing thoughts publicly and collectively. To discuss with me, there are two ways.
