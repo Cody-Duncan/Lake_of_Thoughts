@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Lake of Thoughts","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Lake of Thoughts","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
