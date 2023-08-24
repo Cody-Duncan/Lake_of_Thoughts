@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"tree-2","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true}
+{"dg-publish":true,"noteIcon":"tree-2","Cover":"https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-22-960x1440.jpg","Rating":"★★★★★","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
