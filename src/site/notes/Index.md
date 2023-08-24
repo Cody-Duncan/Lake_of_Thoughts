@@ -1,5 +1,5 @@
 ---
-{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"2023-08-23T21:30:15+06:00","updated":"2023-08-23T16:59:25+06:00","permalink":"/index/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"","updated":"","permalink":"/index/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
@@ -13,34 +13,22 @@ Unsurprisingly, thoughts here are, like every thought, ever-changing.
 ## Document Maturity Levels
 Maturity level for each note is being represented by plant icons of various growth.
 
-### Seedling
-Seedlings (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) are thoughts barely started. Maybe Jotted down on haste or simply showing only the brief amount of what I thought about it by far.
-
-### Sapling
-Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
-
-### Tree
-Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
-
-### Withered
-Withered (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
-
-### Stone
-Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
-
-### Signpost
-Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
+- Seedlings (![Maturity Level: 1|14](https://lakeofthoughts.codyduncan.net/img/tree-1.svg)) are thoughts barely started. 
+- Saplings (![Maturity Level: 2|14](https://lakeofthoughts.codyduncan.net/img/tree-2.svg)) have a substantial amount of content, but much work to be done.
+- Trees (![Maturity Level: 3|14](https://lakeofthoughts.codyduncan.net/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
+-  Withered (![Maturity Level: withered|14](https://lakeofthoughts.codyduncan.net/img/withered.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+- Stones (![Maturity Level: stone|14](https://lakeofthoughts.codyduncan.net/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
+- Signposts (![Maturity Level: signpost|14](https://lakeofthoughts.codyduncan.net/img/signpost.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
 > [!Warning] 
 > Maturity Levels are subjective.
 
 
 ## On Top of My mind…
-| Cover                                                                  | Title                                                                                                                                        | Updated                                                              | Created                                                             | Tags                                              | Inset                                                                                                                                         |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <!--img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>-->     | [[LINK_TO_SOME_PAGE\|SOME_PAGE]]                                                                                                              | <i icon-name=calendar-clock></i><small>Aug 14, 2023 12:29 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2023 11:39 PM</small> | #nothing_yet                                      | <img class=inset-cover src=''/>                                                                                                               |
+| Cover                                                                   | Title                 | Updated                                                              | Created                                                             | Tags    | Inset                           |
+| ----------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------- | ------------------------------- |
+| <img src='https://lakeofthoughts.codyduncan.net/img/2-cover-card.jpg'/> | [[Recipes/Chicken Al Pastor\|Chicken Al Pastor]] | <i icon-name=calendar-clock></i><small>Aug 14, 2023 12:29 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2023 11:39 PM</small> | #recipe | <img class=inset-cover src=''/> |
 
-{ .block-language-dataview}
 ## Discussion
 Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing thoughts publicly and collectively. To discuss with me, there are two ways.
 
