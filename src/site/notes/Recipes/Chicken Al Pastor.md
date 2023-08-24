@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/chicken-al-pastor/"}
+{"dg-publish":true,"noteIcon":"tree-2","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true}
 ---
 
 
