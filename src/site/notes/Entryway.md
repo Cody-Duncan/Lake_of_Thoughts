@@ -53,4 +53,4 @@ I don't seek publicity. If you find anything praiseworthy (I doubt you will), te
 3. Be civil, please.
 
 ### Credit
-This page design was borroweed from https://hermitage.utsob.me/ by [Utsob Roy](Utsob Roy), from https://github.com/uroybd/topobon
+This page design was borrowed from https://hermitage.utsob.me/ by [Utsob Roy](https://github.com/uroybd), from https://github.com/uroybd/topobon
