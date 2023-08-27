@@ -51,3 +51,6 @@ I don't seek publicity. If you find anything praiseworthy (I doubt you will), te
     2. Other logical fallacies
     3. Avoid irrelevance.
 3. Be civil, please.
+
+### Credit
+This page design was borroweed from https://hermitage.utsob.me/ by [Utsob Roy](Utsob Roy), from https://github.com/uroybd/topobon

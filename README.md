@@ -7,3 +7,6 @@ See the README in the plugin repo for information on how to set it up.
 ---
 ## Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+
+---
+This page design was borroweed from https://hermitage.utsob.me/ by [Utsob Roy](Utsob Roy), from https://github.com/uroybd/topobon
