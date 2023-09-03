@@ -1,5 +1,5 @@
 ---
-{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"","updated":"","permalink":"/entryway/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"Lake of Thoughts","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"created":"","updated":"","permalink":"/entryway/","metatags":{"description":"Cduncan's Digital Garden","og:description":"Cduncan's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
@@ -12,6 +12,7 @@ This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-g
 
 - ### [[Recipes/Recipes\|Recipes]]
 - ### [[Library/Library\|Library]]
+- ### [[Psychology/Psychology\|Psychology]]
 
 ## On Top of My mind…
 | Directory             | Files                                                                                                                                                                                                                                                                                   | Last modified                                   |
