@@ -11,7 +11,7 @@
 
 ## Key Ideas
 
-![[Multipliers-book-summary_multipliers-vs-diminishers.webp]]
+![Multipliers-book-summary_multipliers-vs-diminishers.png](/img/user/Library/media/Multipliers-book-summary_multipliers-vs-diminishers.png)
 
 | Trait       | Multipliers                                                                                                                                                                     | Diminishers                                                                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
