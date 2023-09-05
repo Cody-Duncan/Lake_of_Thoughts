@@ -45,8 +45,6 @@ const noteLabels = {
   stone: { label: "Stone", count: 0, icon: "stone" },
 };
 
-import assert from 'node:assert/strict';
-
 function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
   const canvasTrees = data.collections.note.map((n) => {
