@@ -56,7 +56,11 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-	if (!Object.hasOwn(treeCounts[v], 'count'))
+	if (treeCounts == null)
+	{
+		console.log(`treeCounts is null!`);
+	}
+	else if (!Object.hasOwn(treeCounts[v], 'count'))
 	{
 		console.log(`treeCounts index:${v} does not have property 'count'. noteIcon: ${n.data.noteIcon} title: ${n.data.title}`);
 	}
