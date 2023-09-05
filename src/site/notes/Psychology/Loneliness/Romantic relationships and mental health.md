@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","title":"Romantic relationships and mental health","author":"Scott Braithwaite; Julianne Holt-Lunstad","journal":"Current Opinion in Psychology","volume":13,"year":2017,"month":2,"permalink":"/psychology/loneliness/romantic-relationships-and-mental-health/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"stone","title":"Romantic relationships and mental health","author":"Scott Braithwaite; Julianne Holt-Lunstad","journal":"Current Opinion in Psychology","volume":13,"year":2017,"month":2,"permalink":"/psychology/loneliness/romantic-relationships-and-mental-health/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
 ---
 
 
