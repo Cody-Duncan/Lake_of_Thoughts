@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","permalink":"/recipes/recipes/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"signpost","permalink":"/recipes/recipes/","dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
