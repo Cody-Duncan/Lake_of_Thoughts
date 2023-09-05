@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","permalink":"/psychology/psychology/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"signpost","permalink":"/psychology/psychology/","dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
