@@ -62,7 +62,8 @@ function forestData(data) {
 	}
 	else if (treeCounts[v] == null)
 	{
-		console.log(`treeCounts index:${v} is null! noteIcon: ${n.data.noteIcon} title: ${n.data.title}`);
+		debug_obj_sring= JSON.stringify(n.data, null, 4);
+		console.log(`treeCounts index:${v} is null! noteIcon: ${n.data.noteIcon} title: ${n.data.title} data: ${debug_obj_sring}`);
 	}
 	else if (!Object.hasOwn(treeCounts[v], 'count'))
 	{
