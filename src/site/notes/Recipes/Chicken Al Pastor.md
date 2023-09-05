@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"tree-3","Cover":"https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-22-960x1440.jpg","Rating":"★★★★★","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true,"noteIcon":"tree-3","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"3","Cover":"https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-22-960x1440.jpg","Rating":"★★★★★","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true,"noteIcon":"3","created":"","updated":""}
 ---
 
 https://playswellwithbutter.com/chicken-al-pastor/
