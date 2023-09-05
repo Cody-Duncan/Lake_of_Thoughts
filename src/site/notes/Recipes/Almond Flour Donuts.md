@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","Cover":"https://www.wholesomeyum.com/wp-content/uploads/2017/09/wholesomeyum-Keto-Donuts-19.jpg","Rating":"★★★★☆","permalink":"/recipes/almond-flour-donuts/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"tree-3","Cover":"https://www.wholesomeyum.com/wp-content/uploads/2017/09/wholesomeyum-Keto-Donuts-19.jpg","Rating":"★★★★☆","permalink":"/recipes/almond-flour-donuts/","dgPassFrontmatter":true,"noteIcon":"tree-3","created":"","updated":""}
 ---
 
 source: https://www.wholesomeyum.com/recipes/low-carb-donuts-recipe-almond-flour-keto-donuts/
