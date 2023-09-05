@@ -2,7 +2,6 @@
 {"dg-publish":true,"noteIcon":"","Cover":"https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-22-960x1440.jpg","Rating":"★★★★★","permalink":"/recipes/chicken-al-pastor/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-
 https://playswellwithbutter.com/chicken-al-pastor/
 
 ![recipe image](https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-22-960x1440.jpg)
@@ -52,7 +51,7 @@ _**for serving, as desired:**_
 
 
 
-### Instructions
+## Instructions
 
 1. **Prep the al pastor marinade & marinate the chicken:** Add all listed marinade ingredients to a blender. Blend until combined. Add the chicken thighs & thinly sliced yellow onion to a large bowl. Pour the al pastor marinade over top & toss to combine. Marinate in the refrigerator (covered) for at least 6 hours or up to 3 days.
    ![marinating in bowl](https://playswellwithbutter.com/wp-content/uploads/2021/03/Chicken-Tacos-al-Pastor-1-595x397.jpg)
