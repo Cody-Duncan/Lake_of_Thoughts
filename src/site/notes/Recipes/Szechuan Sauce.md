@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","Cover":"https://images.squarespace-cdn.com/content/v1/590be7fd15d5dbc6bf3e22d0/1510172491653-64D6MK0QWJHRTAFA8BRM/Screen+Shot+2017-11-08+at+2.12.34+PM.png?format=1500w","Rating":"★★★★☆","permalink":"/recipes/szechuan-sauce/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"tree-3","Cover":"https://images.squarespace-cdn.com/content/v1/590be7fd15d5dbc6bf3e22d0/1510172491653-64D6MK0QWJHRTAFA8BRM/Screen+Shot+2017-11-08+at+2.12.34+PM.png?format=1500w","Rating":"★★★★☆","permalink":"/recipes/szechuan-sauce/","dgPassFrontmatter":true,"noteIcon":"tree-3","created":"","updated":""}
 ---
 
 source: https://www.bingingwithbabish.com/recipes/2017/8/29/szechuansaucerevisited
