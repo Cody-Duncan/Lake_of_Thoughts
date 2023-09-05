@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","Cover":"https://preview.redd.it/kqsrp3js85n51.jpg?width=1200&format=pjpg&auto=webp&s=b830bcb8baa68db08246332f978af9a8eeaac294","Rating":"★★★★★","permalink":"/recipes/tomato-kasundi-himalayan-ketchup/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"tree-3","Cover":"https://preview.redd.it/kqsrp3js85n51.jpg?width=1200&format=pjpg&auto=webp&s=b830bcb8baa68db08246332f978af9a8eeaac294","Rating":"★★★★★","permalink":"/recipes/tomato-kasundi-himalayan-ketchup/","dgPassFrontmatter":true,"noteIcon":"tree-3","created":"","updated":""}
 ---
 
 AK.A - Eastern Indian Tomato Chutney
