@@ -48,28 +48,23 @@ const noteLabels = {
 function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
   const canvasTrees = data.collections.note.map((n) => {
-    let v = parseInt(n.data.noteIcon);
-    let height = 2;
-    if (!v) {
-      v = n.data.noteIcon;
-    } else {
-      height = v;
-      v = `tree-${v}`;
-    }
-	if (treeCounts == null)
+	console.log("TYPENAME: " + n.constructor.name);
+	let height = 2;
+	let v= 0;
+	if (n.data.noteIcon)
 	{
-		console.log(`treeCounts is null!`);
+		v = parseInt(n.data.noteIcon);
+		if (!v) {
+		  v = n.data.noteIcon;
+		} else {
+		  height = v;
+		  v = `tree-${v}`;
+		}
+		if (treeCounts[v] != null)
+		{
+			treeCounts[v].count++;
+		}
 	}
-	else if (treeCounts[v] == null)
-	{
-		obj_typename= n.data.constructor.name;
-		console.log(`treeCounts index:${v} is null! noteIcon: ${n.data.noteIcon} title: ${n.data.title} type: ${obj_typename}`);
-	}
-	else if (!Object.hasOwn(treeCounts[v], 'count'))
-	{
-		console.log(`treeCounts index:${v} does not have property 'count'. noteIcon: ${n.data.noteIcon} title: ${n.data.title}`);
-	}
-    treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
 
