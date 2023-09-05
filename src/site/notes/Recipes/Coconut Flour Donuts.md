@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","Cover":"https://alldayidreamaboutfood.com/wp-content/uploads/2013/09/Coconut-Flour-Fried-Donuts-3.jpg","Rating":"★★★☆☆","permalink":"/recipes/coconut-flour-donuts/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"tree-3","Cover":"https://alldayidreamaboutfood.com/wp-content/uploads/2013/09/Coconut-Flour-Fried-Donuts-3.jpg","Rating":"★★★☆☆","permalink":"/recipes/coconut-flour-donuts/","dgPassFrontmatter":true,"noteIcon":"tree-3","created":"","updated":""}
 ---
 
 source:  https://alldayidreamaboutfood.com/coconut-flour-fried-donuts-low-carb-and-gluten-free/
