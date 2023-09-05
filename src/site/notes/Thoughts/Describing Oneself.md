@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"noteIcon":"","permalink":"/thoughts/describing-oneself/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"tree-1","permalink":"/thoughts/describing-oneself/","dgPassFrontmatter":true,"noteIcon":"tree-1","created":"","updated":""}
 ---
 
 *poetic description* - using imaginative or sensitive emotional style of expression to describe something.
