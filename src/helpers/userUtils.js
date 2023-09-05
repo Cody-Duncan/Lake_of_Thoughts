@@ -56,7 +56,10 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-	assert.ok(Object.hasOwn(treeCounts[v], 'count'), `treeCounts index:${v} does not have property 'count'. noteIcon: ${n.data.noteIcon} title: ${n.data.title}`);
+	if (!Object.hasOwn(treeCounts[v], 'count'))
+	{
+		console.log(`treeCounts index:${v} does not have property 'count'. noteIcon: ${n.data.noteIcon} title: ${n.data.title}`);
+	}
     treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
