@@ -3,14 +3,14 @@
 ---
 
 
-| Note Icon  | Image |
-| ---------- | ----- |
-| `tree-1`     | ![Maturity Level: 1\|14](https://lakeofthoughts.codyduncan.net/img/tree-1.svg)      |
-| `tree-2`     | ![Maturity Level: 2\|14](https://lakeofthoughts.codyduncan.net/img/tree-2.svg)      |
-| `tree-3`     | ![Maturity Level: 3\|14](https://lakeofthoughts.codyduncan.net/img/tree-3.svg)      |
-| `withered`   | ![Maturity Level: withered\|14](https://lakeofthoughts.codyduncan.net/img/withered.svg)      |
-| `stone`      | ![Maturity Level: stone\|14](https://lakeofthoughts.codyduncan.net/img/stone.svg)      |
-| `signpost`   | ![Maturity Level: signpost\|14](https://lakeofthoughts.codyduncan.net/img/signpost.svg)      |
+| `dg-note-icon` | Image                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------- |
+| `1`            | ![Maturity Level: 1\|14](https://lakeofthoughts.codyduncan.net/img/tree-1.svg)          |
+| `2`            | ![Maturity Level: 2\|14](https://lakeofthoughts.codyduncan.net/img/tree-2.svg)          |
+| `3`            | ![Maturity Level: 3\|14](https://lakeofthoughts.codyduncan.net/img/tree-3.svg)          |
+| `withered`     | ![Maturity Level: withered\|14](https://lakeofthoughts.codyduncan.net/img/withered.svg) |
+| `stone`        | ![Maturity Level: stone\|14](https://lakeofthoughts.codyduncan.net/img/stone.svg)       |
+| `signpost`     | ![Maturity Level: signpost\|14](https://lakeofthoughts.codyduncan.net/img/signpost.svg) |
 
 - Seedlings (![Maturity Level: 1|14](https://lakeofthoughts.codyduncan.net/img/tree-1.svg)) are thoughts barely started. 
 - Saplings (![Maturity Level: 2|14](https://lakeofthoughts.codyduncan.net/img/tree-2.svg)) have a substantial amount of content, but much work to be done.
