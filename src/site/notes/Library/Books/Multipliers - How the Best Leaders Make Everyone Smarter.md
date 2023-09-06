@@ -1,5 +1,5 @@
 ---
-{"aliases":["Multipliers"],"Author":"Liz Wiseman","Status":"reading","ISBN":"978-0061964398","Cover":"https://images.isbndb.com/covers/43/98/9780061964398.jpg","Rating":"★★★⚫⚫","dg-publish":true,"dg-note-icon":"2","title":"Multipliers: How the Best Leaders Make Everyone Smarter","permalink":"/library/books/multipliers-how-the-best-leaders-make-everyone-smarter/","dgPassFrontmatter":true,"noteIcon":"2","created":"","updated":""}
+{"aliases":["Multipliers"],"Author":"Liz Wiseman","Status":"reading","ISBN":"978-0061964398","Cover":"https://images.isbndb.com/covers/43/98/9780061964398.jpg","Rating":"★★★⚫⚫","dg-publish":true,"dg-note-icon":"1","title":"Multipliers: How the Best Leaders Make Everyone Smarter","permalink":"/library/books/multipliers-how-the-best-leaders-make-everyone-smarter/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 
