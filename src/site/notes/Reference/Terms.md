@@ -4,6 +4,9 @@
 
 **Adjusted Mutuality** - mutuality that is adjusted for imbalanced power dynamics
 
+Burnout
+- burnout is caused by putting in effort, but making no progress
+
 **Communal Boundaries** - considering both person's needs and prioritizing whoever’s needs are more important.
 - “Given my current state, what can I offer?”
 - are context-dependent; otherwise, they are walls.
