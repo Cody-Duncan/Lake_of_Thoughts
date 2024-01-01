@@ -15,3 +15,4 @@ The 36 questions from the study can be found at [[Psychology/Relationships/Coupl
 
 ![[aron-et-al-1997-the-experimental-generation-of-interpersonal-closeness-a-procedure-and-some-preliminary-findings.pdf]]
 
+Full Text PDF: https://journals.sagepub.com/doi/epdf/10.1177/0146167297234003
