@@ -28,6 +28,10 @@ Burnout
 - The study of psychology and sociology is the study of those inputs and outputs. 
   It is useful to think about others as philosophical zombies.
 
+**Sthira** - refers to stability, intent, and strength. Etymologically it arises from the root _stha_, which means “to stand, to be firm”.
+
+**Sukha** - refers to comfort, ease, and openness, and the literal meaning is “good space,” from the root words _su_ (good) and _kha_ (space).
+
 **Tsundoku** - (積ん読) the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them.
 
 # Sources
@@ -51,6 +55,12 @@ From: https://www.youtube.com/watch?v=zFfED-M0FcU*
 
 **Philosophical Zombie**
 *Source: https://en.wikipedia.org/wiki/Philosophical_zombie*
+
+**Sthira**
+*Source*: https://www.ekhartyoga.com/articles/practice/sthira-and-sukha-finding-balance-on-and-off-the-mat
+
+**Sukha**
+*Source*: https://www.ekhartyoga.com/articles/practice/sthira-and-sukha-finding-balance-on-and-off-the-mat
 
 **Tsundoku**
 *Source: https://en.wikipedia.org/wiki/Tsundoku*
