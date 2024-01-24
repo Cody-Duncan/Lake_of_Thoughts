@@ -29,3 +29,7 @@
 > Comparison is the thief of joy
 
 - John Powell (Comparison is the death of true self-contentment.)
+
+> You don't notice your progress in life because you are always raising the bar.
+
+- Unknown
