@@ -17,3 +17,15 @@
 > The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 
 - Norman Schwarzkopf
+
+> The obstacle is the path.
+
+- Zen Proverb
+
+> Let go, or be dragged.
+
+- Zen Proverb
+
+> Comparison is the thief of joy
+
+- John Powell (Comparison is the death of true self-contentment.)
