@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"stone","permalink":"/reference/dg-note-icon-reference/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"stone","permalink":"/reference/dg-note-icon-reference/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

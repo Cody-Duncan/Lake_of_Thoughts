@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"signpost","permalink":"/reference/terms/","dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"signpost","permalink":"/reference/terms/","dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 **Adjusted Mutuality** - mutuality that is adjusted for imbalanced power dynamics

@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":"stone","dg-publish":true,"permalink":"/psychology/relationships/couples/36-questions-to-intimacy/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"dg-note-icon":"stone","dg-publish":true,"permalink":"/psychology/relationships/couples/36-questions-to-intimacy/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 Source: [[Psychology/Relationships/Couples/The Experimental Generation of Interpersonal Closeness - A Procedure and Some Preliminary Findings\|The Experimental Generation of Interpersonal Closeness - A Procedure and Some Preliminary Findings]] by Arthur Aron et al.

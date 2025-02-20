@@ -1,5 +1,5 @@
 ---
-{"banner":"![library_banner.jpg](/img/user/Library/media/library_banner.jpg)","banner_y":0.744,"dg-publish":true,"dg-note-icon":"signpost","permalink":"/library/library/","dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"banner":"![library_banner.jpg](/img/user/Library/media/library_banner.jpg)","banner_y":0.744,"dg-publish":true,"dg-note-icon":"signpost","permalink":"/library/library/","dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"1","Cover":"https://cdn.copymethat.com/media/miso_marinated_grilled_vegetables_2022081601320218062004buzp.jpg","Rating":"*???untried*","permalink":"/recipes/miso-grilled-vegetable-marinade/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"1","Cover":"https://cdn.copymethat.com/media/miso_marinated_grilled_vegetables_2022081601320218062004buzp.jpg","Rating":"*???untried*","permalink":"/recipes/miso-grilled-vegetable-marinade/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 source:  https://issuu.com/maycatering/docs/the_best_of_fine_cooking_-_grilling

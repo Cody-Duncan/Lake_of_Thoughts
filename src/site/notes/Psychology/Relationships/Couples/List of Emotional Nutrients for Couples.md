@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":"stone","dg-publish":true,"permalink":"/psychology/relationships/couples/list-of-emotional-nutrients-for-couples/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"dg-note-icon":"stone","dg-publish":true,"permalink":"/psychology/relationships/couples/list-of-emotional-nutrients-for-couples/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

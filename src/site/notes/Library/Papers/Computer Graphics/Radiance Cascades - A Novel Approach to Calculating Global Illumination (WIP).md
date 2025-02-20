@@ -1,5 +1,5 @@
 ---
-{"aliases":["Radiance Cascades"],"Author":"Alexander Sannikov","Status":"backlog","dg-publish":true,"dg-note-icon":"stone","title":"Radiance Cascades: A Novel Approach to Calculating Global Illumination [WIP]","permalink":"/library/papers/computer-graphics/radiance-cascades-a-novel-approach-to-calculating-global-illumination-wip/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"aliases":["Radiance Cascades"],"Author":"Alexander Sannikov","Status":"backlog","dg-publish":true,"dg-note-icon":"stone","title":"Radiance Cascades: A Novel Approach to Calculating Global Illumination [WIP]","permalink":"/library/papers/computer-graphics/radiance-cascades-a-novel-approach-to-calculating-global-illumination-wip/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 source: https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view

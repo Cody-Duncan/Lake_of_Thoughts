@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"stone","title":"The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings","author":"Arthur Aron; Edward Melinat; Elaine N. Aron; Robert Darrin Vallone; Renee J. Bator","journal":"Personality and Social Psychology Bulletin","volume":23,"year":1997,"month":4,"tags":["36questions","intimacy"],"permalink":"/psychology/relationships/couples/the-experimental-generation-of-interpersonal-closeness-a-procedure-and-some-preliminary-findings/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"stone","title":"The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings","author":"Arthur Aron; Edward Melinat; Elaine N. Aron; Robert Darrin Vallone; Renee J. Bator","journal":"Personality and Social Psychology Bulletin","volume":23,"year":1997,"month":4,"tags":["36questions","intimacy"],"permalink":"/psychology/relationships/couples/the-experimental-generation-of-interpersonal-closeness-a-procedure-and-some-preliminary-findings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

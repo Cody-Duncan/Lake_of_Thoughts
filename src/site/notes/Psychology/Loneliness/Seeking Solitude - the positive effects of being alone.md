@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"stone","title":"Seeking Solitude: the positive effects of being alone","author":"Samantha Vosse","year":2019,"month":1,"permalink":"/psychology/loneliness/seeking-solitude-the-positive-effects-of-being-alone/","dgPassFrontmatter":true,"noteIcon":"stone","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":"stone","title":"Seeking Solitude: the positive effects of being alone","author":"Samantha Vosse","year":2019,"month":1,"permalink":"/psychology/loneliness/seeking-solitude-the-positive-effects-of-being-alone/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
